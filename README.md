@@ -8,6 +8,7 @@ I made this program for me and my siblings but I would be very happy to find out
 In the 20 seconds break:
 
 Look to a far object(6 meters from you, 19.5 feet from you) for 20 seconds till the beep sounds.
+
 In the 10 minutes break:
 
 Just take a break (:

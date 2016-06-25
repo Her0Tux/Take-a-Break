@@ -107,6 +107,12 @@ namespace Take_a_Break
             {
                 progressBar1.Value += 10;
             }
+            else
+            {
+                SoundPlayer player = new SoundPlayer(Properties.Resources.beep_07);
+                player.Play();
+                timer2.Stop();
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)

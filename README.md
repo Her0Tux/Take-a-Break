@@ -1,3 +1,4 @@
+#This project is old & not in development! Use Fluctus instead!
 # Take-a-Break
 A Program to refresh you're view and keep you're eyes safe while being on a screen.
 # About
@@ -12,5 +13,3 @@ Look to a far object(6 meters from you, 19.5 feet from you) for 20 seconds till 
 In the 10 minutes break:
 
 Just take a break (:
-***Not In Development***
-***Check out Take a Break v2 for an updated version***
